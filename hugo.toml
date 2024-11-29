@@ -1,3 +1,17 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "CREATIVIDAD DIGITAL"
+theme = "ananke"
+
+
+[menu]
+[[menu.main]]
+identifier = 'about'
+name = 'Acerca de...'
+url = '/about/'
+
+[[menu.main]]
+identifier = 'posts'
+name = 'Posts'
+url = '/posts/'
+

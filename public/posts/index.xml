@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on CREATIVIDAD DIGITAL</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on CREATIVIDAD DIGITAL</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Nov 2024 09:05:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explorando la Creatividad en el Mundo Digital</title>
+      <link>http://localhost:1313/posts/post1edgar/edgar-post1/</link>
+      <pubDate>Fri, 29 Nov 2024 09:05:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/post1edgar/edgar-post1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/cratividad_digital.jpg&#34; alt=&#34;Creatividad digital&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;-la-magia-de-crear-en-la-era-digital&#34;&gt;✨ La Magia de Crear en la Era Digital&lt;/h3&gt;&#xA;&lt;p&gt;En un mundo dominado por la tecnología, &lt;strong&gt;la creatividad&lt;/strong&gt; 🌈 sigue siendo el alma que da vida a las innovaciones más asombrosas. Desde el diseño gráfico 🎨 hasta el desarrollo de aplicaciones 📱, nunca antes habíamos tenido tantas herramientas a nuestra disposición para convertir ideas 💡 en realidades tangibles.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-por-qué-es-importante-la-creatividad-hoy&#34;&gt;💭 ¿Por qué es importante la creatividad hoy?&lt;/h3&gt;&#xA;&lt;p&gt;La creatividad no solo es arte 🎭; es la capacidad de ver más allá de lo evidente, conectar ideas aparentemente dispares y resolver problemas con enfoques originales. En la era digital, estas habilidades son clave en campos como:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
