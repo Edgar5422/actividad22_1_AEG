@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:46409/posts/post2ana/</loc>
+    <lastmod>2024-11-29T11:26:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:46409/</loc>
+    <lastmod>2024-11-29T11:26:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:46409/posts/</loc>
+    <lastmod>2024-11-29T11:26:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:46409/posts/post1edgar/</loc>
+    <lastmod>2024-11-29T09:05:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:46409/about/</loc>
+  </url><url>
+    <loc>http://localhost:46409/categories/</loc>
+  </url><url>
+    <loc>http://localhost:46409/tags/</loc>
+  </url>
+</urlset>

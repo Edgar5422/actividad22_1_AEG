@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CREATIVIDAD DIGITAL</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:46409/</link>
     <description>Recent content on CREATIVIDAD DIGITAL</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Nov 2024 09:05:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 11:26:36 +0100</lastBuildDate>
+    <atom:link href="http://localhost:46409/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🌐El Arte de Resolver Problemas Digitales1</title>
+      <link>http://localhost:46409/posts/post2ana/</link>
+      <pubDate>Fri, 29 Nov 2024 11:26:36 +0100</pubDate>
+      <guid>http://localhost:46409/posts/post2ana/</guid>
+      <description>&lt;p&gt;🛠️ &lt;em&gt;&amp;ldquo;Cómo la creatividad transforma desafíos tecnológicos en soluciones innovadoras.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-una-nueva-forma-de-ver-los-problemas&#34;&gt;🌟 &lt;strong&gt;Una Nueva Forma de Ver los Problemas&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;En la era digital, &lt;strong&gt;los problemas no son barreras; son oportunidades disfrazadas&lt;/strong&gt;. 🚀&lt;br&gt;&#xA;La creatividad juega un papel clave al abordar estos desafíos, permitiendo a los innovadores encontrar soluciones únicas donde otros ven obstáculos insuperables. 💡✨&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-cómo-aplicar-la-creatividad-en-la-resolución-de-problemas&#34;&gt;🤔 &lt;strong&gt;¿Cómo aplicar la creatividad en la resolución de problemas?&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;-1-pensamiento-lateral&#34;&gt;🔄 1. Pensamiento Lateral&lt;/h3&gt;&#xA;&lt;p&gt;Mira los problemas desde una perspectiva diferente. 👀&lt;br&gt;&#xA;&lt;strong&gt;Ejemplo:&lt;/strong&gt; En lugar de mejorar un proceso complejo, ¿podrías eliminarlo completamente?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Explorando la Creatividad en el Mundo Digital</title>
-      <link>http://localhost:1313/posts/post1edgar/edgar-post1/</link>
+      <link>http://localhost:46409/posts/post1edgar/</link>
       <pubDate>Fri, 29 Nov 2024 09:05:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/post1edgar/edgar-post1/</guid>
+      <guid>http://localhost:46409/posts/post1edgar/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/cratividad_digital.jpg&#34; alt=&#34;Creatividad digital&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;-la-magia-de-crear-en-la-era-digital&#34;&gt;✨ La Magia de Crear en la Era Digital&lt;/h3&gt;&#xA;&lt;p&gt;En un mundo dominado por la tecnología, &lt;strong&gt;la creatividad&lt;/strong&gt; 🌈 sigue siendo el alma que da vida a las innovaciones más asombrosas. Desde el diseño gráfico 🎨 hasta el desarrollo de aplicaciones 📱, nunca antes habíamos tenido tantas herramientas a nuestra disposición para convertir ideas 💡 en realidades tangibles.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-por-qué-es-importante-la-creatividad-hoy&#34;&gt;💭 ¿Por qué es importante la creatividad hoy?&lt;/h3&gt;&#xA;&lt;p&gt;La creatividad no solo es arte 🎭; es la capacidad de ver más allá de lo evidente, conectar ideas aparentemente dispares y resolver problemas con enfoques originales. En la era digital, estas habilidades son clave en campos como:&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Us</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:46409/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:46409/about/</guid>
       <description>&lt;h1 id=&#34;-about-us&#34;&gt;🧑‍💻 About Us&lt;/h1&gt;&#xA;&lt;p&gt;¡Hola y bienvenidos! 👋 Somos &lt;strong&gt;Edgar, Ana y Germán&lt;/strong&gt;, un equipo apasionado por la tecnología, el diseño web y la implementación de soluciones digitales que marcan la diferencia.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-nuestra-misión&#34;&gt;🌟 Nuestra misión&lt;/h2&gt;&#xA;&lt;p&gt;Ayudar a empresas y emprendedores a aprovechar el poder de la web para transformar sus ideas en realidades. Creemos que cada proyecto tiene un potencial único, y nuestro objetivo es darle vida con soluciones prácticas, innovadoras y centradas en el usuario.&lt;/p&gt;</description>
     </item>
   </channel>
